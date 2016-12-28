@@ -1,0 +1,7 @@
+base	gitlivesync 
+author	KB, SW
+email	dwgit@nerdbox.de
+date	2015-11-15
+name	Wiki/git live syncronisation
+desc	Get page changes from a git and push changes from a wiki into a git repo.
+url	https://www.dokuwiki.org/plugin:gitlivesync
